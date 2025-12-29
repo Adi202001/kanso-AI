@@ -1,0 +1,8 @@
+{
+  "name": "Kanso - Travel Simply",
+  "description": "The minimalist AI travel planner. Curated itineraries, intelligent mapping, and distraction-free exploration.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
